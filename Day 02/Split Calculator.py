@@ -11,5 +11,3 @@ print(intax)
 p = int(input("How many people to split bill : "))
 result = intax/p
 split = print("Each person should pay : ", result)
-total_round_amount = round(split)
-print(total_round_amount)
